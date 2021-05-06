@@ -6,9 +6,3 @@ Practica_6_1/
 ej1T4.class
 ej3
 ejalumnos.psc
-examen_gestion_alumnos_1daw (1).psc
-examen_sueldo.psc
-examenpractico.psc
-proyecto final.txt
-sorteo.psc
-tabla de multiplicar.psc
